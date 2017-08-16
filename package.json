@@ -1,0 +1,24 @@
+{
+  "name": "react-native-text-hypertext",
+  "version": "0.1.0",
+  "description": "Create a <Text> tag with hypertext inside it using <a> tag on the text it receives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvelezpo/react-native-text-hypertext.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "hypertext"
+  ],
+  "author": "jvelezpo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvelezpo/react-native-text-hypertext/issues"
+  },
+  "homepage": "https://github.com/jvelezpo/react-native-text-hypertext#readme"
+}
