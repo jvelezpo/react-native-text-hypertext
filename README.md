@@ -1,5 +1,7 @@
 # _react-native-text-hypertext_
 
+[![npm version](https://badge.fury.io/js/react-native-text-hypertext.svg)](https://badge.fury.io/js/react-native-text-hypertext)
+
 ```
 Alpha
 ```
